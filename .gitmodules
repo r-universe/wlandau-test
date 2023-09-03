@@ -5,8 +5,8 @@
 [submodule "askpass"]
 	path = askpass
 	url = https://github.com/r-lib/askpass
-	branch = *release
+	branch = 1.2.0
 [submodule "test2"]
 	path = test2
 	url = https://github.com/wlandau-test/test2
-	branch = *release
+	branch = 0.0.1
