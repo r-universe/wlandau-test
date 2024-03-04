@@ -1,0 +1,10 @@
+[
+  {
+    "package": "askpass",
+    "releasetag": true
+  },
+  {
+    "package": "test2",
+    "releasetag": true
+  }
+]

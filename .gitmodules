@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/wlandau-test/wlandau-test.r-universe.dev
 	branch = HEAD
+[submodule "askpass"]
+	path = askpass
+	url = https://github.com/r-lib/askpass
+	branch = *release
+[submodule "test2"]
+	path = test2
+	url = https://github.com/wlandau-test/test2
+	branch = *release
