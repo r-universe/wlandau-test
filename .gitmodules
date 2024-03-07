@@ -2,11 +2,7 @@
 	path = .registry
 	url = https://github.com/wlandau-test/wlandau-test.r-universe.dev
 	branch = HEAD
-[submodule "askpass"]
-	path = askpass
-	url = https://github.com/r-lib/askpass
-	branch = 1.2.0
-[submodule "test2"]
-	path = test2
-	url = https://github.com/wlandau-test/test2
-	branch = 0.0.1
+[submodule "test"]
+	path = test
+	url = https://gitlab.com/wlandau/test
+	branch = *release
