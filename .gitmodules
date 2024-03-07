@@ -5,4 +5,4 @@
 [submodule "test"]
 	path = test
 	url = https://gitlab.com/wlandau/test
-	branch = *release
+	branch = 0.0.3
